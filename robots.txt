@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.baqltfp.cn/sitemap.xml
